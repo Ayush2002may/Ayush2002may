@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2002may&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2002may" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Ui Path Automation**
 
 - 📫 How to reach me **ayushatwal5000gmail.com**
 
